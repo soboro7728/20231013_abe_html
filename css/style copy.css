@@ -1,0 +1,11 @@
+.download__btn::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 15px;
+    background: url(../img/mail.svg) no-repeat;
+    background-size: cover;
+    width: 30px;
+    width: 30px;
+    transform: translateY(-50%);
+}
