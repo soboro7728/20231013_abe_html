@@ -6,6 +6,9 @@
     padding:  0 30px;
     color: blue;
 }
+a{
+    text-decoration: none;
+}
 .header__ttl{
     font-size: 50px;
     width: 80px;
@@ -15,7 +18,7 @@
     list-style: none;
     font-weight: bold;
     font-size: 30px;
-}
+}    
 .header__inner-item:not(:last-child){
     margin-right: 30px;
 }
